@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [System Architecture](#system-architecture)
+1. [Introduction](#1-introduction)
+2. [System Architecture](#2-system-architecture)
 3. [Account Lifecycle](#account-lifecycle)
 4. [Key Components](#key-components)
 5. [Workflow](#workflow)
