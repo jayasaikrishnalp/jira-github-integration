@@ -4,14 +4,14 @@
 
 1. [Introduction](#1-introduction)
 2. [System Architecture](#2-system-architecture)
-3. [Account Lifecycle](#account-lifecycle)
-4. [Key Components](#key-components)
-5. [Workflow](#workflow)
-6. [Security and Compliance](#security-and-compliance)
-7. [Cleanup Process](#cleanup-process)
-8. [Error Handling and Failsafes](#error-handling-and-failsafes)
-9. [Integration Points](#integration-points)
-10. [Monitoring and Logging](#monitoring-and-logging)
+3. [Account Lifecycle](#3-account-lifecycle)
+4. [Key Components](#4-key-components)
+5. [Workflow](#5-workflow)
+6. [Security and Compliance](#6-security-and-compliance)
+7. [Cleanup Process](#7-cleanup-process)
+8. [Error Handling and Failsafes](#8-error-handling-and-failsafes)
+9. [Integration Points](#9-integration-points)
+10. [Monitoring and Logging](#10-monitoring-and-logging)
 
 ## 1. Introduction
 
